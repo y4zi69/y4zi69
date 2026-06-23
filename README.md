@@ -13,7 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=y4zi69&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=y4zi69&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4zi69&layout=compact&count_private=true&bg_color=1a1a1a&title_color=ff007f&text_color=ffffff&bar_color=8a2be2)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4zi69&theme=dark&layout=compact&count_private=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
