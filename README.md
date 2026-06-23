@@ -15,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=y4zi69&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4zi69&theme=dark&layout=compact&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y4zi69&theme=dark&layout=compact&count_private=true&hide=Jupyter%20Notebook)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
